@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mehmet Salih KARACA 👋
 
-<!--
-**mehmetsalihkaraca/mehmetsalihkaraca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌍 Based in Turkey
+- 💻 Learning Software Development
+- 📚 Currently studying Information Technology
 
-Here are some ideas to get you started:
+## Technologies I'm Learning
+- HTML
+- CSS
+- JavaScript
+- PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Portfolio Website
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mehmet-salih-karaca-2142a4262/)
